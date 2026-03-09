@@ -31,6 +31,6 @@ usually given in YAML:
 
 <!--qgoda-no-xgettext-->
 [% FILTER $Highlight "language-sh" %]
-e-invoice-eu schmea --id=mapping
+e-invoice-eu schema --id=mapping
 [% END %]
 <!--/qgoda-no-xgettext-->
